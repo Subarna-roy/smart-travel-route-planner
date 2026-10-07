@@ -1,0 +1,13 @@
+name,city,cost,rating,time
+Rock Garden,Chandigarh,500,4.5,2
+Sukhna Lake,Chandigarh,300,4.6,2
+Golden Temple,Amritsar,800,4.9,4
+Jallianwala Bagh,Amritsar,400,4.7,2
+India Gate,Delhi,700,4.8,2
+Qutub Minar,Delhi,600,4.7,3
+Lotus Temple,Delhi,500,4.6,2
+Taj Mahal,Agra,1200,4.9,4
+Agra Fort,Agra,700,4.7,3
+Nahargarh Fort,Jaipur,900,4.6,3
+Hawa Mahal,Jaipur,600,4.7,2
+City Palace,Jaipur,1000,4.8,4

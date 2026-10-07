@@ -1,0 +1,40 @@
+CUSTOMER-FRIENDLY SAMPLE
+
+============================================================
+        SMART TRAVEL ROUTE & TRIP PLANNER
+============================================================
+Welcome! Let's help you plan your trip.
+
+1. 🔎 Find a tourist place
+2. ⭐ See top-rated places
+3. 🗺️  Find the best route between two cities
+4. 💰 Find the best places for my budget
+5. ⏰ Plan places for my available time
+6. 📅 Create possible trip plans
+7. 🌍 Explore nearby connected cities
+8. 📚 View how the planner works
+0. Exit
+
+What would you like to do? Enter a number: 3
+
+Available cities:
+1. Agra
+2. Amritsar
+3. Chandigarh
+4. Delhi
+5. Jaipur
+
+Choose your starting city: 3
+
+Available cities:
+1. Agra
+2. Amritsar
+3. Chandigarh
+4. Delhi
+5. Jaipur
+
+Choose your destination city: 1
+
+Your shortest route is:
+Chandigarh → Delhi → Agra
+Approximate distance: 475 km

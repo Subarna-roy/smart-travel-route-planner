@@ -1,0 +1,11 @@
+source,destination,distance
+Chandigarh,Delhi,245
+Chandigarh,Amritsar,225
+Chandigarh,Jaipur,500
+Delhi,Agra,230
+Delhi,Jaipur,280
+Amritsar,Delhi,450
+Jaipur,Agra,240
+Jaipur,Delhi,280
+Agra,Delhi,230
+Agra,Jaipur,240
